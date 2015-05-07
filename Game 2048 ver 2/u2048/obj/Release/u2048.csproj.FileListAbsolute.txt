@@ -1,0 +1,9 @@
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048.Main.resources
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048.Properties.Resources.resources
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048.csproj.GenerateResource.Cache
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\bin\Release\u2048 - Lukasz Jakowski.exe.config
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\bin\Release\u2048 - Lukasz Jakowski.exe
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\bin\Release\u2048 - Lukasz Jakowski.pdb
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048 - Lukasz Jakowski.exe
+c:\users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048 - Lukasz Jakowski.pdb
+C:\Users\jakowskiuki\documents\visual studio 2012\Projects\u2048\u2048\obj\Release\u2048.csprojResolveAssemblyReference.cache
